@@ -140,3 +140,7 @@ Receiving hardware does not guarantee a positive review.
 The objective is always the same:
 
 **Build it. Test it. Learn from it. Document it.**
+
+### Interested in working with Project BEYOND?
+
+See the full [Hardware Testing & Collaboration](docs/hardware-testing-collaboration.md) page for current test capabilities, benchmark methodology, disclosure policy, and collaboration opportunities.
