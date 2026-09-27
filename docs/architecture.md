@@ -90,7 +90,7 @@ Frankenstein was never intended to be the final architecture.
 
 Its job was to give BEYOND somewhere to begin.
 
-[View the Frankenstein build documentation](projects/frankenstein/build.md)
+[View the Frankenstein build documentation](../projects/frankenstein/build.md)
 
 ---
 
@@ -116,7 +116,7 @@ Current development includes:
 The long-term objective is to move IRIS toward dedicated AI compute and
 distributed interaction nodes throughout the environment.
 
-[View the IRIS documentation](projects/iris/README.md)
+[View the IRIS documentation](../projects/iris/README.md)
 
 ---
 
@@ -157,7 +157,7 @@ Forge builds.
 
 The rest of BEYOND runs.
 
-[View the Forge documentation](projects/forge/README.md)
+[View the Forge documentation](../projects/forge/README.md)
 
 ---
 
@@ -187,7 +187,7 @@ Future Hearth workloads may include:
 
 If it needs to stay running, it shouldn't live in Forge.
 
-[View the Hearth documentation](projects/hearth/README.md)
+[View the Hearth documentation](../projects/hearth/README.md)
 
 ---
 
@@ -214,7 +214,7 @@ The long-term objective is to provide independent storage infrastructure with:
 
 **Capacity and architecture are not the same thing.**
 
-[View the Stash documentation](projects/stash/README.md)
+[View the Stash documentation](../projects/stash/README.md)
 
 ---
 
@@ -229,7 +229,7 @@ measure whether future upgrades solve the problems they were intended to solve.
 
 | Benchmark | System | Result |
 |---|---|---|
-| [Benchmark 001 — Frankenstein 1 GbE Baseline](tests/network/frankenstein-1gbe-baseline.md) | Frankenstein / BEYOND Network | 946 Mbit/s inbound, 937 Mbit/s outbound, 946 Mbit/s four-stream aggregate |
+| [Benchmark 001 — Frankenstein 1 GbE Baseline](../tests/network/frankenstein-1gbe-baseline.md) | Frankenstein / BEYOND Network | 946 Mbit/s inbound, 937 Mbit/s outbound, 946 Mbit/s four-stream aggregate |
 
 ### Benchmark Philosophy
 
@@ -301,7 +301,7 @@ Future development may include:
 - Dedicated storage networking
 - Infrastructure monitoring
 
-[View the network documentation](docs/network.md)
+[View the network documentation](network.md)
 
 ---
 
@@ -325,7 +325,7 @@ Hardware is evaluated based on:
 - Measurable improvement
 - Long-term usefulness
 
-[View the hardware inventory](docs/hardware.md)
+[View the hardware inventory](hardware.md)
 
 ---
 
@@ -379,7 +379,7 @@ Major development goals include:
 - Rack-mounted infrastructure
 - 10 GbE backbone
 
-[View the full BEYOND roadmap](docs/roadmap.md)
+[View the full BEYOND roadmap](roadmap.md)
 
 ---
 
